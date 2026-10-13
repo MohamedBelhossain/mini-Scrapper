@@ -1,0 +1,4 @@
+requests
+beautifulsoup4
+# Optional, only needed for JavaScript-rendered pages:
+# playwright
